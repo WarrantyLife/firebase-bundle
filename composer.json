@@ -14,7 +14,7 @@
     "minimum-stability": "alpha",
     "require": {
         "php": "^7.2|^8.0",
-        "kreait/firebase-php": "dev-warrantylife-v1",
+        "kreait/firebase-php": "dev-warrantylife-v1@dev",
         "symfony/cache": "^3.4|^4.2.12|^5.0",
         "symfony/dependency-injection": "^3.4.26|^4.2.7|^5.0",
         "symfony/config": "^3.4.26|^4.2|^5.0",
